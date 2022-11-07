@@ -110,7 +110,12 @@ SWEEP函数
 修改窗口的位置->修改glutInitWindowPosition的参数
 
 修改窗口的大小->修改glutInitWindowSize的参数
-   
+
+# 部分结果图
+
+![image](https://github.com/927-Charles/cadd/blob/master/img/1.png)
+![image](https://github.com/927-Charles/cadd/blob/master/img/2.png)  
+
 # 部分参考
 
 1）LearnOpenGL CN

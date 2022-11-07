@@ -113,8 +113,8 @@ SWEEP函数
 
 # 部分结果图
 
-![image](https://github.com/927-Charles/cadd/blob/master/img/1.png)
-![image](https://github.com/927-Charles/cadd/blob/master/img/2.png)  
+![image](https://github.com/927-Charles/cadd/blob/master/img/1.jpg)
+![image](https://github.com/927-Charles/cadd/blob/master/img/2.jpg)  
 
 # 部分参考
 
